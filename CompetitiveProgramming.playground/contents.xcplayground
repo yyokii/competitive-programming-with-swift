@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='AtCoder Beginner Contest 060 B - Choose Integers'/>
+        <page name='AtCoder Beginner Contest 060 C - Sentou'/>
+        <page name='AtCoder Beginner Contest 063 C - Bugged'/>
+        <page name='AtCoder Beginner Contest 064 C - Colorful Leaderboard'/>
+        <page name='AtCoder Beginner Contest 072 C - Together'/>
+        <page name='AtCoder Beginner Contest 086 C - Traveling'/>
+        <page name='AtCoder Beginner Contest 088 C - Takahashi&apos;s Information'/>
+        <page name='AtCoder Beginner Contest 096 C - Grid Repainting 2'/>
+        <page name=' AtCoder Beginner Contest 107 B - Grid Compression'/>
+        <page name='AtCoder Beginner Contest 098 B - Cut and Count'/>
+        <page name='AtCoder Beginner Contest 121 B - Can you solve this?'/>
+        <page name='AtCoder Beginner Contest 139 D - ModSum'/>
+        <page name='AtCoder Grand Contest 029 A - Irreversible operation'/>
+        <page name='AtCoder Grand Contest 040 A - &gt;&lt;'/>
+        <page name='Atcoder keyence contest B-KEYENCE String'/>
+        <page name='CODE FESTIVAL 2016 qual B B - Qualification simulator'/>
+        <page name='三井住友信託銀行プログラミングコンテスト2019 B - Tax Rate'/>
+    </pages>
+</playground>
