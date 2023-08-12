@@ -23,7 +23,7 @@ struct ServiceImpl: Service {
 
     func calculateMinSeparatePatterns() -> Int {
         var count = 0
-        var isIncrease: Bool?
+        var isIncrease: Bool? // 特定の状態であったらという処理はwhileの条件にすれば、変数をなくせる
 
         for i in 0..<(inputNumbers.count - 1) {
             let currentNumber = inputNumbers[i]
